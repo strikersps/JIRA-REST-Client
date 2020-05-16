@@ -1,6 +1,6 @@
 # JIRA REST Client
 
-Developed a **REST Client** which extracts the Bug Report from the MySQL Database first and then log all the _Bug Reports_ with relevant stats (JSON Format) to specific JIRA Project using REST API provided by JIRA.  
+Developed a **REST Client** which extracts the Bug Report from the MySQL Database first and then log all the _Bug Reports_ with relevant statistics (JSON Format) to specific JIRA Project using REST API provided by JIRA.  
 
 #### System Requirements:
 * Ubuntu 16.04 LTS or later.   
